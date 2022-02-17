@@ -1,4 +1,4 @@
-# Code_Notifier
+# Code_Notifier 😎
 This project basically runs in the background as per your need and reminds you to do coding to get better!!
 
 Languages and Modules used :
@@ -7,5 +7,6 @@ Languages and Modules used :
 --> TIME
 --> NOTIFICATION
 
-Feel free to edit it and use it !!
+Feel free to edit it and use it 😀
+
 
